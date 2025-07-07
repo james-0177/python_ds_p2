@@ -6,3 +6,11 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 ## Rubric
 
 Each question is worth one point.
+
+## Create s577663.ipynb
+
+Question 10 was completed on a newly created jupyter notebook.
+
+## Exported as HTML
+
+Each jupyter notebook was exported as an HTML file.
