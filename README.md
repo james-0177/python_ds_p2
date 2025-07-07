@@ -13,4 +13,4 @@ Question 10 was completed on a newly created jupyter notebook.
 
 ## Exported as HTML
 
-Each jupyter notebook was exported as an HTML file.
+Each jupyter notebook was exported as an HTML file using Inline Command in a Python Cell.
